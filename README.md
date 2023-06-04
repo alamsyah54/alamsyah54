@@ -1,5 +1,5 @@
 # About Me:
-👋 Hi, I’m Aldi. Fullstack Developer | Graphic Designer | Brand Designer | Freelancer<br> - My passion for computer and internet technologies ignited at the age of 12, and since then, I have been constantly expanding my skills. Proficient in HTML, CSS, JavaScript, BootstrapCSS, TailwindCSS, Laravel, ReactJS, and currently diving into Next.js. I am driven by curiosity and determined to make a positive impact through my work.
+👋 Hi, I’m Aldi. Fullstack Developer | Graphic Designer | Brand Designer | Freelancer<br> My passion for computer and internet technologies ignited at the age of 12, and since then, I have been constantly expanding my skills. Proficient in HTML, CSS, JavaScript, BootstrapCSS, TailwindCSS, Laravel, ReactJS, and currently diving into Next.js. I am driven by curiosity and determined to make a positive impact through my work.
 
 
 ## 🌐 Socials:
